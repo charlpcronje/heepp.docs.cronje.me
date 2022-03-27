@@ -6,4 +6,23 @@
 # HeEPP - Hyper Extensible Element PreProcessor                                                 
 ```
 
-TODO: Documentation
+File Structure
+HeEPP
+Projects
+Environment
+
+Models
+Database
+Views
+Templating
+Elements
+SCSS
+Controllers
+Helpers
+Data
+Routes
+API
+Minifying
+Combining Scripts
+Frontend
+Events
