@@ -15,7 +15,7 @@ tags: [dev,heepp,php,model,view,controller,js,scss,custom elements,templates,eve
 |__| _ [__ [__)[__)   |  \|  |/  `(__    |\/|[__ 
 |  |(/,[___|   |    * |__/|__|\__..__) * |  |[___
                                                  
-# HeEPP - Hyper Extensible Element PreProcessor                                                 
+# HeEPP - Hyper Extensible Element PreProcessor
 ```
 
 Update 29 March 2022. I'm busy writing these docs at the moment and should be done within a week or two, so please come back, read the getting started page and test out my PHP MCV Framework.
