@@ -5,8 +5,8 @@ order: 180
 authors:
   - name: Charl Cronje
     email: charl@CRONje.ME
-    link: https://charl-cv.CRONje.ME
-    avatar: https://assets.CRONje.ME/avatars/darker.jpg
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darker.jpg
 tags: [dev,heepp,php,model,view,controller,js,scss,custom elements,templates,events,frontend]
 ---
 
