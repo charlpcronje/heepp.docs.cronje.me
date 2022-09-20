@@ -1,6 +1,6 @@
 input: src
 output: public
-url: http://dns.docs.cronje.me
+url: http://heepp.docs.cronje.me
 branding:
   title: CRONje.ME | HeEPP Documentation 
   label: DNS
