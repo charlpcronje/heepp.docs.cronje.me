@@ -25,7 +25,9 @@ Update 29 March 2022. I'm busy writing these docs at the moment and should be do
 If you are still learning PHP, then maybe try [learnyouphp](learnyouphp.md)
 
 To create new projects and to explore the code we can use PHP CLI for a lot of that
-[Overview](./overview.md)
+
+- [Overview](./overview.md)
+- Have a look at the overview above
 
 0. [PHP Cli Basics](cliBasics.md)
 1. [Getting Started](gettingStarted.md)
