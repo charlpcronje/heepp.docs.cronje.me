@@ -29,6 +29,8 @@ To create new projects and to explore the code we can use PHP CLI for a lot of t
 - [Overview](./overview.md)
 - Have a look at the overview above
 
+- [Before you start, Why HeEPP?](./why_heepp.md)
+
 0. [PHP Cli Basics](cliBasics.md)
 1. [Getting Started](gettingStarted.md)
 2. File Structure
